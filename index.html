@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OneClick Scholarships</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    html, body {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+    main {
+      flex: 1;
+    }
+    footer {
+      margin-top: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎓 OneClick Scholarships</h1>
+    <input type="text" id="search" placeholder="Search scholarships..." />
+    <div class="filters">
+      <select id="classFilter">
+        <option value="">All Classes</option>
+        <option value="10">Class 10</option>
+        <option value="12">Class 12</option>
+        <option value="UG">Undergraduate</option>
+        <option value="PG">Postgraduate</option>
+      </select>
+      <select id="categoryFilter">
+        <option value="">All Categories</option>
+        <option value="General">General</option>
+        <option value="SC/ST">SC/ST</option>
+        <option value="Female">Female</option>
+        <option value="Minority">Minority</option>
+      </select>
+    </div>
+  </header>
+
+  <main id="scholarshipList">Loading scholarships...</main>
+
+  <footer>
+    <p>Built with ❤️ by Rahul | No login. No ads. Just help.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
