@@ -1,0 +1,42 @@
+[
+  {
+    "name": "AICTE Pragati Scholarship for Girls",
+    "amount": "50000",
+    "deadline": "2025-07-30",
+    "class": "UG",
+    "category": "Female",
+    "link": "https://scholarships.gov.in/"
+  },
+  {
+    "name": "NSP Post Matric Scholarship SC",
+    "amount": "35000",
+    "deadline": "2025-08-15",
+    "class": "UG",
+    "category": "SC/ST",
+    "link": "https://scholarships.gov.in/"
+  },
+  {
+    "name": "SOF Girl Child Scholarship",
+    "amount": "5000",
+    "deadline": "2025-08-01",
+    "class": "10",
+    "category": "Female",
+    "link": "https://sofworld.org/scholarships"
+  },
+  {
+    "name": "Inspire Scholarship for Science Students",
+    "amount": "80000",
+    "deadline": "2025-08-20",
+    "class": "UG",
+    "category": "General",
+    "link": "https://online-inspire.gov.in/"
+  },
+  {
+    "name": "Begum Hazrat Mahal Scholarship",
+    "amount": "12000",
+    "deadline": "2025-07-25",
+    "class": "12",
+    "category": "Minority",
+    "link": "https://scholarships.gov.in/"
+  }
+]
